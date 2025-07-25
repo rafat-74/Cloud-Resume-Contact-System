@@ -79,7 +79,7 @@ This improves **site speed, availability, and protection** across global edge lo
 
 The full project architecture is shown in this visual representation:
 
-![Architecture Diagram](./A_schematic_diagram_in_a_digital_vector_illustrati.png)
+![Architecture Diagram](./Diagram.png)
 
 ---
 
